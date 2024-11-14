@@ -9,11 +9,10 @@ body{
     /* * espaçamento externo */
 }
 
-h1{
-    margin: 50px;
-    padding: 30px ;
-    border-radius: 20px;
+.segundo-titulo{
+color: black;
 }
+
 main{
     background-color: rgb(203, 249, 255);
     padding: 20px;
